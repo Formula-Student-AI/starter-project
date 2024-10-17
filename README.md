@@ -9,7 +9,7 @@ This repository contains the .devcontainer files for VSCode to build a Ubuntu 20
 ## Setup
 
 ```
-git clone https://github.com/Formula-Student-AI/ros-empty-project-foxy
+git clone https://github.com/Formula-Student-AI/starter-project
 ```
 
 Follow the [setup guide](https://bristol-fsai.notion.site/Guides-11c29866e62680b3a193ee29496b3f37) if you need to set up Docker.
